@@ -1,0 +1,88 @@
+{
+  "product_name": "GoBOLT Wireless Bluetooth Headphones",
+  "images": [
+    "https://m.media-amazon.com/images/I/617RrF009BL.jpg",
+    "https://m.media-amazon.com/images/I/51HDTeuYBGL.jpg",
+    "https://m.media-amazon.com/images/I/41WdnrcLk0L._QL92_SH45_SS200_.jpg",
+    "https://m.media-amazon.com/images/I/61bh01l8fvL._AC_UF1000%2C1000_QL80_.jpg"
+  ],
+  "sections": [
+    {
+      "title": "📦 What’s in the Box",
+      "type": "list",
+      "content": [
+        "GoBOLT Headphones",
+        "Charging Cable (USB / Type-C – model dependent)",
+        "Extra Ear Tips",
+        "User Guide"
+      ]
+    },
+    {
+      "title": "🔌 How to Charge",
+      "type": "steps",
+      "content": [
+        "Connect the charging cable to headphones",
+        "Plug into charger or laptop USB",
+        "🔴 Red LED → Charging",
+        "🔵 Blue / OFF → Fully Charged"
+      ],
+      "note": "⏱️ Charging Time: 1.5 – 2 hours"
+    },
+    {
+      "title": "🔵 How to Turn ON / OFF",
+      "type": "mixed",
+      "content": [
+        {
+          "subtitle": "▶️ Power ON",
+          "details": [
+            "Press & hold Power Button for 3–5 seconds",
+            "Blue light blinks",
+            "Voice prompt: “Power On”"
+          ]
+        },
+        {
+          "subtitle": "⏹️ Power OFF",
+          "details": [
+            "Press & hold Power Button for 3 seconds",
+            "Voice prompt: “Power Off”"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📱 How to Connect Bluetooth",
+      "type": "steps",
+      "content": [
+        "Turn ON headphones",
+        "LED flashes Blue + Red (pairing mode)",
+        "Open Bluetooth on phone / laptop",
+        "Select “GoBOLT Headphones”",
+        "Connected ✅"
+      ],
+      "note": "📌 Next time → Auto-connect"
+    },
+    {
+      "title": "🎶 Button Controls",
+      "type": "table",
+      "headers": ["Action", "Button"],
+      "rows": [
+        ["Play / Pause", "Single press Power"],
+        ["Next Song", "Long press +"],
+        ["Previous Song", "Long press –"],
+        ["Volume Up", "Short press +"],
+        ["Volume Down", "Short press –"],
+        ["Answer Call", "Single press Power"],
+        ["Reject Call", "Long press Power"]
+      ]
+    },
+    {
+      "title": "🔋 Battery Backup",
+      "type": "list",
+      "content": [
+        "Music Time: 8–12 hours",
+        "Standby: Up to 100 hours"
+      ]
+    }
+  ],
+  "ai_summary": "GoBOLT headphones are wireless Bluetooth headphones. Turn them on, pair with your device, control music and calls using buttons, and recharge when battery is low."
+}
